@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622547433 source:c:\users\louie\onedrive\桌面\c++作業\作業2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+	<fstream>
+
